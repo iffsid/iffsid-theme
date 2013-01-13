@@ -1,0 +1,11 @@
+* Theme
+
+  This theme is my current fix-point after fudging around a whole lot of
+  assorted themes and styles
+
+* Installation
+
+  Note, =iffsid-theme.el= is for Emacs 24.
+
+  Put =iffsid-theme.el= in your theme directory (see =custom-theme-directory=),
+  and execute =M-x load-theme RET iffsid RET=.
